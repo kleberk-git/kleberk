@@ -1,7 +1,7 @@
 # Olá, Eu sou o Kleber!
 Desenvolvedor FULLSTACK
 
-<a href="https://kleberk-git.github.io/meu-portfolio/">Acessar meu portifólio.</a>
+<a href="https://kleberk-git.github.io/meu-portfolio/">Acessar meu portfólio.</a>
 
 <div align="center">
   <a href="https://github.com/kleberk-git">
