@@ -1,5 +1,5 @@
 # Olá, Eu sou o Kleber!
-Desenvolvedor FULLSTACK
+Especialista em Tecnologia da Informação
 
 <a href="https://kleberk-git.github.io/meu-portfolio/">Acessar meu portfólio.</a>
 
